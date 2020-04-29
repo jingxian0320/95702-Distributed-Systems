@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d1256fb-9dbd-4796-a3f8-6cd66b4886dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvEa74ekXP7xwTziUjIUsjgbCZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.EchoClientTCP">
+    <configuration name="BabyHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BabyHash" />
+      <module name="Project2Task5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoClientTCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EchoClientTCP" />
+      <module name="Project2Task5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServerTCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EchoServerTCP" />
+      <module name="Project2Task5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EchoClientTCP" />
+        <item itemvalue="Application.EchoServerTCP" />
+        <item itemvalue="Application.BabyHash" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1256fb-9dbd-4796-a3f8-6cd66b4886dc" name="Default Changelist" comment="" />
+      <created>1581918228652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581918228652</updated>
+      <workItem from="1581918232097" duration="10913000" />
+      <workItem from="1582229768407" duration="2029000" />
+      <workItem from="1582751429581" duration="2598000" />
+      <workItem from="1585272066947" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1582232300998">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582232300998" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1582232300997">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582232300997" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1582232300997">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582232300997" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1582232300998">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582232300998" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582088372944">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582088372944" />
+  </component>
+</project>

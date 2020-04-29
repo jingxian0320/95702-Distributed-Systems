@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47cd2ee3-6977-4681-8a5d-cfed866e6949" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGx3g32NCO1ienKWtez1eBHgho" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MongoDBTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MongoDBTest" />
+      <module name="MongoDBTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MongoDBTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47cd2ee3-6977-4681-8a5d-cfed866e6949" name="Default Changelist" comment="" />
+      <created>1584479034292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584479034292</updated>
+      <workItem from="1584479039679" duration="1929000" />
+      <workItem from="1585874332494" duration="1097000" />
+      <workItem from="1585879475704" duration="10000" />
+      <workItem from="1585895116824" duration="5989000" />
+      <workItem from="1585936927995" duration="1252000" />
+      <workItem from="1585945074338" duration="726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Project_Structure" timestamp="1584479047552">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1584479047552" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585942149574">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585942149574" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585942149571">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585942149571" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585942149570">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585942149570" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585942149573">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585942149573" />
+    <state x="258" y="113" key="Maven.ArtifactSearchDialog" timestamp="1584479602227">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="113" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1584479602227" />
+    <state x="208" y="33" key="SettingsEditor" timestamp="1584480190624">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="33" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584480190624" />
+    <state x="97" y="178" key="new project wizard" timestamp="1585903158907">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="178" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1585903158907" />
+  </component>
+</project>
