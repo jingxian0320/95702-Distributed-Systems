@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PITdashboard/PITdashboard.iml" filepath="$PROJECT_DIR$/PITdashboard/PITdashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PITsimulation/PITsimulation.iml" filepath="$PROJECT_DIR$/PITsimulation/PITsimulation.iml" />
+    </modules>
+  </component>
+</project>
